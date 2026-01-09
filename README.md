@@ -216,6 +216,7 @@ Plugins which affect the final output of a bundle.
 
 Plugins for working with template languages.
 
+- [content](https://github.com/stalniy/rollup-plugin-content) - Static content generation from different file formats (e.g., yaml, json, front-matter)
 - [twig](https://github.com/fm-ph/rollup-plugin-twig) - Import pre-compiled Twig.js templates.
 - [dustjs](https://github.com/chrisdothtml/rollup-plugin-dustjs) - Import Dust.js templates.
 - [eft](https://github.com/ClassicOldSong/rollup-plugin-eft) - Compile ef.js templates.
@@ -226,7 +227,6 @@ Plugins for working with template languages.
 - [pug](https://github.com/aMarCruz/rollup-plugin-pug) - Compile Pug Templates as es6 modules.
 - [pug-html](https://github.com/tycho01/rollup-plugin-pug-html) - Import Pug Templates as HTML strings during a build.
 - [reshape](https://github.com/Vanilla-IceCream/rollup-plugin-reshape) - Compile Reshape Templates.
-- [content](https://github.com/stalniy/rollup-plugin-content) - Static content generation from different file formats (e.g., yaml, json, front-matter)
 
 ### Text Replacement
 
